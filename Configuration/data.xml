@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<environment>
+    <!--General-->
+    <WaitTime>5</WaitTime>
+    <!--Web-->
+    <Browser>Chrome</Browser>
+    <URL>http://localhost:3000/</URL>
+    <UserName>admin</UserName>
+    <Password>admin</Password>
+    <CSV_Location>..\DDT\users.csv</CSV_Location>
+
+
+</environment>
